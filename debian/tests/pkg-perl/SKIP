@@ -1,0 +1,3 @@
+# the usage of module seems ok, but without plan test it prints an output and
+# return 254 exit code
+runtime-deps.d/use.t
